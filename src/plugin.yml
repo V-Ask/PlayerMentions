@@ -1,0 +1,5 @@
+name: PlayerMentions
+version: 0.1.0
+description: Plugin that allows players to tag one another with the prefix '@'.
+author: r1ckp1ckle/sexyman.jpg
+main: com.r1ckp1ckle.tagmsg.TagMsg

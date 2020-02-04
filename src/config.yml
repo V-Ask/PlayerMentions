@@ -1,0 +1,4 @@
+tag-perms: tagmsg.user
+player-name-chatcolor: '&9'
+player-tagged-chatcolor: '&l&6'
+tag-sound: 'ENTITY_EXPERIENCE_ORB_PICKUP'

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pl@yerMentions">
+    <output-path>$PROJECT_DIR$/../1.12 Server/plugins</output-path>
+    <root id="archive" name="Pl@yerMentions.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="module-output" name="TagMessage" />
+    </root>
+  </artifact>
+</component>
